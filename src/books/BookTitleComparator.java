@@ -1,7 +1,6 @@
 package books;
 
 import java.util.Comparator;
-import java.util.Locale;
 
 public class BookTitleComparator implements Comparator<Book> {
 
